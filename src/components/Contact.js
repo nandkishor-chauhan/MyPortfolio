@@ -56,11 +56,11 @@ const Contact = () => {
             </div>
             <div data-aos="fade-right" data-aos-duration="1000" data-aos-once="false" className="flex gap-3 items-center mb-4 md:gap-2 lg:gap-5">
               <FaPhoneAlt className="text-white" />
-              <p className="text-white md:text-lg ">+977 9824210880</p>
+              <p className="text-white md:text-lg ">+977 9746815935</p>
             </div>
             <div data-aos="fade-right" data-aos-duration="1000" data-aos-once="false" className="flex gap-3 items-center mb-4 md:gap-2 lg:gap-5">
               <FaEnvelope className="text-white" />
-              <a href="mailto:talakolavijaykumar@gmail.com" className="text-white md:text-lg">chauhan205315@gmail.com</a>
+              <a href="mailto:er.nandkishorchauhan@gmail.com" className="text-white md:text-lg">er.nandkishorchauhan@gmail.com</a>
             </div>
             <div data-aos="fade-right" data-aos-duration="1000" data-aos-once="false" className="flex gap-3 items-center md:gap-2 lg:gap-5">
               <FaMapMarkerAlt className="text-white" />

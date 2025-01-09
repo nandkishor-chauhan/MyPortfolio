@@ -16,27 +16,25 @@ const Profile = () => {
           <img
             className="object-cover object-center bg-[#b9aeb6] border-[1.1px] border-dark-orange pointer-events-none rounded-full backdrop-contrast-200 backdrop-brightness-200"
             alt="Nandkishor"
-            src={require("../assets/Images/Profile1.jpg")}
+            src={require("../assets/Images/Profile2.JPG")}
           />
         </div>
 
         {/* Text Section */}
-        <div className="font-mono lg:flex-grow flex flex-col md:mb-0 items-start text-start xl:scale-105 lg:pt-[2.7rem] lg:pl-[7rem]">
+        <div className="font-mono lg:flex-grow flex flex-col md:mb-0 items-start text-start xl:scale-105 lg:pt-[2rem] lg:pl-[7rem]">
           <p
             data-aos="zoom-in-up"
             data-aos-duration="1500"
             data-aos-once="false"
-            className="px-4 sm:px-[38px] md:text-4xl text-[1.2rem] mb-4 text-start font-medium text-white"
-          >
+            className="sm:px-[38px] md:text-4xl text-[1.2rem] mb-4 text-start font-medium text-white">
             Hello, I'm
           </p>
           <h1
             data-aos="zoom-in-up"
             data-aos-duration="1500"
             data-aos-once="false"
-            className="px-4 sm:px-8 title-font md:text-6xl text-[1.65rem] mb-4 text-start font-medium text-white"
-          >
-            <span className="text-dark-orange">Nandkishor Chauhan</span>
+            className="px-4 sm:px-8 title-font md:text-6xl text-[1.65rem] mb-4 text-start font-medium text-white">
+            <span className="text-dark-orange">Er.Nandkishor Chauhan</span>
           </h1>
           <div
             data-aos="zoom-in-up"
@@ -100,7 +98,8 @@ const Profile = () => {
             data-aos-once="false"
             className="hidden md:block px-4 sm:px-8 mb-2 text-white text-lg md:text-xl leading-relaxed"
           >
-            I'm proficient in building web applications using ASP.NET .
+            As a .NET Developer at Auto Soft, 
+            I specialize in creating dynamic and scalable applications using technologies 
           </p>
           <p
             data-aos="zoom-in-up"
@@ -108,7 +107,7 @@ const Profile = () => {
             data-aos-once="false"
             className="hidden md:block pl-4 sm:pl-8 text-lg text-white md:text-xl"
           >
-            I enjoy designing tech websites.
+            such as C#, ASP.NET, MVC, and Web API.
           </p>
           <div
             data-aos="zoom-in-up"

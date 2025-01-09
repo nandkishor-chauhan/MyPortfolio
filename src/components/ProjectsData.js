@@ -1,6 +1,6 @@
-import { BiLogoCss3, BiLogoFirebase, BiLogoMongodb, BiLogoReact, BiLogoRedux, BiLogoTailwindCss, BiLogoTypescript } from "react-icons/bi";
-import { TbBrandNextjs, TbApi, TbDatabase, TbBrandPrisma } from "react-icons/tb";
-import { SiThemoviedatabase, SiExpress } from "react-icons/si";
+import { BiLogoCss3, BiLogoFirebase, BiLogoMongodb, BiLogoReact, BiLogoRedux, BiLogoTailwindCss, BiLogoAndroid,BiLogoJava } from "react-icons/bi";
+import { TbApi, TbDatabase, TbBrandPrisma } from "react-icons/tb";
+import { SiThemoviedatabase, SiExpress,SiDotnet,SiJquery,SiMysql  } from "react-icons/si";
 
 const ProjectsData = [
   {
@@ -23,36 +23,36 @@ const ProjectsData = [
   },
   {
     id: "3",
-    name: "",
-    image: "./demo.jpeg",
-    icons: [BiLogoReact, BiLogoTailwindCss, BiLogoFirebase],
-    description: "Our projects are under development to deliver innovative and engaging platforms—stay tuned for exciting updates!",
+    name: "Real Time Chatting Application",
+    image: "./whatsapp.PNG",
+    icons: [BiLogoAndroid , BiLogoJava ,BiLogoFirebase ],
+    description: "Chatting app that allows users to communicate with one another in real-time via text",
     github: "#",
     demo: "#",
   },
   {
     id: "4",
-    name: "",
-    image: "./demo.jpeg",
+    name: "Thank you !!!",
+    image: "./samanit.jpg",
     icons: [ BiLogoMongodb, SiExpress, BiLogoReact, BiLogoRedux, BiLogoTailwindCss],
-    description: "Our projects are under development to deliver innovative and engaging platforms—stay tuned for exciting updates!",
+    description: "I believe in a leadership style that prioritizes collaboration, communication, and empowerment, enabling teams to thrive and reach their full potential",
     github: "#",
     demo: "#",
   },
   {
     id: "5",
-    name: "",
-    image: "./demo.jpeg",
-    icons: [TbBrandNextjs, BiLogoTypescript, BiLogoTailwindCss, TbApi],
-    description: "Our projects are under development to deliver innovative and engaging platforms—stay tuned for exciting updates!",
-    github: "#",
-    demo: "#",
+    name: "Aditya Blood Cross (ABC)",
+    image: "./androidpro.jpg",
+    icons: [BiLogoAndroid , BiLogoJava , BiLogoFirebase, TbApi],
+    description: "Aditya Blood Cross helps you in your future when you or your family needs a blood urgently. With this application you can request for blood when you needed and the people nearby who is willing to help will contact you. Aditya Blood Cross team will provide you blood as fast as possible.",
+    github: "https://github.com/nandkishor-chauhan/BloodDonationApp.git",
+    demo: "https://github.com/nandkishor-chauhan/BloodDonationApp.git",
   },
   {
-    id: "8",
+    id: "6",
     name: "",
-    image: "./demo.jpeg",
-    icons: [TbBrandNextjs, BiLogoTailwindCss, BiLogoMongodb,TbBrandPrisma],
+    image: "./dotnet.png",
+    icons: [SiDotnet , SiJquery , SiMysql ,TbBrandPrisma],
     description: "Our projects are under development to deliver innovative and engaging platforms—stay tuned for exciting updates!",
     github: "#",
     demo: "#",

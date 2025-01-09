@@ -16,59 +16,65 @@ const SkillsData = [
   },
   {
     id: "4",
-    name: "MongoDB",
-    image: require("../assets/Images/mongodb.png"),
+    name: "Jquery",
+    image: require("../assets/Images/jquery.png"),
   },
   {
     id: "5",
-    name: "Express",
-    image: require("../assets/Images/express.png"),
+    name: "C#",
+    image: require("../assets/Images/csharp.png"),
   },
   {
     id: "6",
-    name: "React",
-    image: require("../assets/Images/react.png"),
+    name: "ASP.NET",
+    image: require("../assets/Images/dot-net.png")
   },
   {
     id: "7",
-    name: "Tailwind",
-    image: require("../assets/Images/tailwind.png"),
+    name: "Visual Studio",
+    image: require("../assets/Images/vs.png"),
   },
   {
     id: "8",
-    name: "MySQL",
-    image: require("../assets/Images/mysql.png"),
-  },
-  {
-    id: "9",
     name: "VS Code",
     image: require("../assets/Images/vscode.png"),
   },
   {
+    id: "9",
+    name: "MySQL",
+    image: require("../assets/Images/mysql.png"),
+  },
+  {
     id: "10",
+    name: "SQL Server",
+    image: require("../assets/Images/sqlserver.png"),
+  },
+  {
+    id: "11",
     name: "Git",
     image: require("../assets/Images/git.png"),
   },
   {
-    id: "11",
+    id: "12",
     name: "GitHub",
     image: require("../assets/Images/github.png"),
   },
   {
-    id: "12",
+    id: "13",
     name: "Java",
     image: require("../assets/Images/java.png")
   },
   {
-    id: "13",
+    id: "14",
     name: "Python",
     image: require("../assets/Images/python.png")
   },
   {
-    id: "14",
-    name: "ASP.NET",
-    image: require("../assets/Images/dot-net.png")
+    id: "15",
+    name: "Android Studio",
+    image: require("../assets/Images/android.png")
   },
+
 ];
 
 export default SkillsData;

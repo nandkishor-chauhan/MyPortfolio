@@ -44,9 +44,9 @@ const About = () => {
               className="font-small text-gray-700 text-sm lg:text-base xl:text-lg leading-loose xl:leading-8"
             >
               {/* <span className="text-red-600 text-4xl">I’m Jaykishor,</span><br /> */}
-              Hello! My name is Nandkishor Prasad Chauhan.
+              Hello! My name is Er.Nandkishor Chauhan.
               I’m originally from Nepal and have been living here for the past three years.
-              With over five years of experience as a software engineer, I have had the 
+              With over four years of experience as a software engineer, I have had the 
               opportunity to work on a variety of projects that have greatly enhanced my technical skills, 
               problem-solving abilities, and adaptability.<br /><br />
 
