@@ -116,8 +116,7 @@ const Profile = () => {
             className="px-4 sm:px-8 mt-7 flex gap-x-4 md:gap-x-5 justify-center md:justify-between flex-col sm:flex-row"
           >
             <a
-              //href="https://raw.githubusercontent.com/jaykishor-chauhan/resume/main/resume.pdf"
-              href="#"
+              href="https://github.com/nandkishor-chauhan/resume/blob/main/Nandkishor_Resume.pdf"
               target="_blank"
               rel="noreferrer"
             >
