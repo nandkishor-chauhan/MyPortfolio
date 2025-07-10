@@ -1,20 +1,20 @@
 const SkillsData = [
   {
-    id: "15",
+    id: "16",
     name: "ANGULAR",
     image: require("../assets/Images/angular.png")
   },
-   {
+  {
     id: "6",
     name: "ASP.NET",
     image: require("../assets/Images/dot-net.png")
   },
-    {
+  {
     id: "5",
     name: "C#",
     image: require("../assets/Images/csharp.png"),
   },
-    {
+  {
     id: "11",
     name: "Git",
     image: require("../assets/Images/git.png"),
@@ -44,8 +44,6 @@ const SkillsData = [
     name: "Jquery",
     image: require("../assets/Images/jquery.png"),
   },
-,
- 
   {
     id: "7",
     name: "Visual Studio",
