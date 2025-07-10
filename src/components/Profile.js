@@ -107,7 +107,7 @@ const Profile = () => {
             data-aos-once="false"
             className="hidden md:block pl-4 sm:pl-8 text-lg text-white md:text-xl"
           >
-            such as C#, ASP.NET, MVC, and Web API.
+            such as .Net, Angular, Git and GitHub, NuGet Packages, Azure DevOps, Azure TFS, Postman
           </p>
           <div
             data-aos="zoom-in-up"

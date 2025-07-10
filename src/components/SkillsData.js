@@ -1,5 +1,30 @@
 const SkillsData = [
   {
+    id: "15",
+    name: "ANGULAR",
+    image: require("../assets/Images/angular.png")
+  },
+   {
+    id: "6",
+    name: "ASP.NET",
+    image: require("../assets/Images/dot-net.png")
+  },
+    {
+    id: "5",
+    name: "C#",
+    image: require("../assets/Images/csharp.png"),
+  },
+    {
+    id: "11",
+    name: "Git",
+    image: require("../assets/Images/git.png"),
+  },
+  {
+    id: "12",
+    name: "GitHub",
+    image: require("../assets/Images/github.png"),
+  },
+  {
     id: "1",
     name: "HTML",
     image: require("../assets/Images/html.png"),
@@ -19,16 +44,8 @@ const SkillsData = [
     name: "Jquery",
     image: require("../assets/Images/jquery.png"),
   },
-  {
-    id: "5",
-    name: "C#",
-    image: require("../assets/Images/csharp.png"),
-  },
-  {
-    id: "6",
-    name: "ASP.NET",
-    image: require("../assets/Images/dot-net.png")
-  },
+,
+ 
   {
     id: "7",
     name: "Visual Studio",
@@ -49,16 +66,7 @@ const SkillsData = [
     name: "SQL Server",
     image: require("../assets/Images/sqlserver.png"),
   },
-  {
-    id: "11",
-    name: "Git",
-    image: require("../assets/Images/git.png"),
-  },
-  {
-    id: "12",
-    name: "GitHub",
-    image: require("../assets/Images/github.png"),
-  },
+
   {
     id: "13",
     name: "Java",
